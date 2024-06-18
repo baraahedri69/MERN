@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+header{
+  font-size: xx-large;
+  margin: 25px 0px;
+}
+
+.form-fields{
+  color:rgb(136, 135, 135);
+  display: flex;
+  justify-content: space-between;
+  width: 260px;
+  margin: auto;
+  border-radius: 30px;
+  padding:15px;
+  background-color: rgb(236, 236, 236);
+}
+
+.form-fields>input{
+  border-radius: 30px;
+}
+
+.submit-input{
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+}
+
+.oneProduct-component{
+  margin:27vh auto;
+}
